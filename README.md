@@ -1,62 +1,13 @@
-# FxEmbed <img src="https://raw.githubusercontent.com/FxEmbed/FxEmbed/main/assets/logos/fxembed.svg" height="24">
+# fxembed garbage
 
-## Home of FxTwitter, FixupX, and FxBluesky
+## this repo hosts the twitter handlers i own at:
+### [dormiex](https://dormiex.com) <img src="/assets/logos/dormiex/icon.svg" height="24">
+[![](/assets/mimi.jpg)](https://x.com/maplesights2/status/1946469891814674474)
+### [juicyhagcunny](https://juicyhagcunny.org) <img src="/assets/logos/juicyhagcunny/icon.svg" height="24">
+[![](/assets/shiina.jpg)](https://x.com/LordGuruSama/status/2019514774657331597)
+### [pankomanko](https://pankomanko.com) <img src="/assets/logos/pankomanko/icon.svg" height="24">
+[![](/assets/panko.jpg)](https://x.com/chocola_vt/status/2059358783697260654)
 
-### Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others!
+all documentation is located on [fxembed's website](https://docs.fxembed.com)
 
-[![Crowdin][crowdinbadge]][crowdin]
-[![esbuild][buildbadge]][build]
-[![Tests][testsbadge]][tests]
-[![Status][statusbadge]][status]
-[![License][licensebadge]][license]
-
-<!-- Links & Badges -->
-
-[build]: https://github.com/FxEmbed/FxEmbed/actions/workflows/build.yml
-[buildbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/build.yml/badge.svg
-[tests]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml
-[testsbadge]: https://github.com/FxEmbed/FxEmbed/actions/workflows/tests.yml/badge.svg
-[license]: https://github.com/FxEmbed/FxEmbed/blob/main/LICENSE.md
-[licensebadge]: https://img.shields.io/github/license/FxEmbed/FxEmbed
-[status]: https://status.fxtwitter.com
-[statusbadge]: https://status.fxtwitter.com/api/badge/8/uptime/720?label=Uptime%2030d
-[crowdinbadge]: https://badges.crowdin.net/fxtwitter/localized.svg
-[crowdin]: https://crowdin.com/project/fxtwitter
-
-### `twitter.com`: Add `fx` before your `twitter.com` link
-
-### `x.com`: Add `fixup` before your `x.com` link
-
-### `bsky.app`: Add `fx` before your `bsky.app` link
-
-## [Documentation](https://docs.fxembed.com)
-
-## [API Reference](https://docs.fxembed.com/api/introduction)
-
-## [Self-Hosting Guide](https://docs.fxembed.com/deployment)
-
-**Licensed under the permissive MIT license. Feel free to send a pull request!**
-
-## Star History
-
-<a href="https://star-history.com/#FxEmbed/FxEmbed&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FxEmbed/FxEmbed&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FxEmbed/FxEmbed&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FxEmbed/FxEmbed&type=Timeline" />
-  </picture>
-</a>
-
-## Bugs or issues?
-
-Feel free to [open an issue](https://github.com/FxEmbed/FxEmbed/issues)
-
-## Additional Credits
-
-[Mosaic](https://github.com/FxEmbed/mosaic) Multi-image combiner by [Antonio32A](https://github.com/Antonio32A) and improved by [Syfaro](https://github.com/Syfaro), [Deer Spangle](https://github.com/Deer-Spangle), and [dangered wolf](https://github.com/dangeredwolf)
-
-[Everyone else who has contributed to the main project!](https://github.com/FxEmbed/FxEmbed/graphs/contributors)
-
-## Disclaimer
-
-Twitter, Tweet, and X are trademarks of X Corp. This project is not affiliated in any way with X Corp or Twitter.
+everything else is on [fxembed's main repo](https://github.com/FxEmbed/FxEmbed)
